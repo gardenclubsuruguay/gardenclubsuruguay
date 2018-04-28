@@ -375,6 +375,40 @@ header .intro-text {
 #services hr {
 	background: rgba(255,255,255,0.6);
 }
+/* eventos Section */
+#eventos {
+	padding: 120px 0;
+	background: #6aaf08;
+}
+#eventos .eventos-media {
+	margin: 10px;
+}
+#eventos .eventos-media img {
+	position: relative;
+	width: 225px;
+	height: 225px;
+	border-radius: 50%;
+	border: 10px solid rgba(255,255,255,0.1);
+}
+#eventos .eventos-desc {
+	margin: 10px 10px 40px;
+	text-align: center;
+}
+#eventos h2 {
+	color: #fff;
+}
+#eventos h3 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 400;
+	padding: 5px 0;
+}
+#eventos p {
+	color: rgba(255,255,255,0.9);
+}
+#eventosp hr {
+	background: rgba(255,255,255,0.6);
+}
 /* Members Section */
 #members {
 	padding: 120px 0;
